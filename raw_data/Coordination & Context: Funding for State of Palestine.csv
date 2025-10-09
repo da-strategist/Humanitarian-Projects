@@ -1,0 +1,56 @@
+location_code,has_hrp,in_gho,appeal_code,appeal_name,appeal_type,requirements_usd,funding_usd,funding_pct,reference_period_start,reference_period_end
+#country+code,#meta+has_hrp,#meta+in_gho,#activity+appeal+id+external,#activity+appeal+name,#activity+appeal+type+name,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct,#date+start,#date+end
+PSE,False,True,Not specified,Not specified,None,None,3618398,None,2028-01-01,2028-12-31
+PSE,False,True,Not specified,Not specified,None,None,5900369,None,2027-01-01,2027-12-31
+PSE,False,True,Not specified,Not specified,None,None,67041062,None,2026-01-01,2026-12-31
+PSE,False,True,FPSE25,Escalation of Hostilities in the OPT Flash Appeal 2025,Flash appeal,4073058682,1141175983,28,2025-01-01,2025-12-31
+PSE,False,True,Not specified,Not specified,None,None,496086472,None,2025-01-01,2025-12-31
+PSE,False,True,FPSE24,Escalation of Hostilities in the OPT Flash Appeal 2024,Flash appeal,3422855934,2859820509,84,2024-01-01,2024-12-31
+PSE,False,True,Not specified,Not specified,None,None,812893217,None,2024-01-01,2024-12-31
+PSE,False,True,HPSE23,Occupied Palestinian Territory Humanitarian Response Plan 2023,Humanitarian response plan,376729201,367119405,97,2023-01-01,2023-09-30
+PSE,False,True,FPSE23,Escalation of Hostilities in the OPT Flash Appeal 2023,Flash appeal,629098307,633245507,101,2023-10-01,2023-12-31
+PSE,False,True,Not specified,Not specified,None,None,836449285,None,2023-01-01,2023-12-31
+PSE,False,True,HPSE22,Occupied Palestinian Territory Humanitarian Response Plan 2022,Humanitarian response plan,509872202,465216528,91,2022-01-01,2022-12-31
+PSE,False,True,Not specified,Not specified,None,None,513993744,None,2022-01-01,2022-12-31
+PSE,False,True,HPSE21,Occupied Palestinian Territory Humanitarian Response Plan 2021,Humanitarian response plan,417567330,376437027,90,2021-01-01,2021-12-31
+PSE,False,True,FPSE21,Escalation of Hostilities in the OPT  Flash Appeal 2021,Flash appeal,94862068,48119021,51,2021-05-27,2021-08-27
+PSE,False,True,Not specified,Not specified,None,None,544908212,None,2021-01-01,2021-12-31
+PSE,False,True,HPSE20,Occupied Palestinian Territory Humanitarian Response Plan 2020,Humanitarian response plan,420381684,327419788,78,2020-01-01,2020-12-31
+PSE,False,True,Not specified,Not specified,None,None,345546395,None,2020-01-01,2020-12-31
+PSE,False,True,HPSE19,Occupied Palestinian Territory Humanitarian Response Strategy 2019,Humanitarian response plan,350589271,292549322,83,2019-01-01,2019-12-30
+PSE,False,True,Not specified,Not specified,None,None,88769438,None,2019-01-01,2019-12-31
+PSE,False,True,HPSE18,Occupied Palestinian Territory Humanitarian Response Strategy 2018,Humanitarian response plan,539721755,244057911,45,2018-01-01,2018-12-31
+PSE,False,True,Not specified,Not specified,None,None,101387034,None,2018-01-01,2018-12-31
+PSE,False,True,HPSE17,occupied Palestinian territory 2017,Humanitarian response plan,551876643,258817158,47,2017-01-01,2017-12-31
+PSE,False,True,Not specified,Not specified,None,None,74235170,None,2017-01-01,2017-12-31
+PSE,False,True,HPSE16,occupied Palestinian territory 2016,Humanitarian response plan,570702496,283756219,50,2016-01-01,2016-12-31
+PSE,False,True,Not specified,Not specified,None,None,399016950,None,2016-01-01,2016-12-31
+PSE,False,True,HPSE15,Occupied Palestinian Territory Strategic Response Plan 2015,Strategic response plan,706051110,397911825,56,2015-01-01,2015-12-31
+PSE,False,True,Not specified,Not specified,None,None,215001319,None,2015-01-01,2015-12-31
+PSE,False,True,SPSE14,Occupied Palestinian Territory Strategic Response Plan 2014,Strategic response plan,931086454,506977015,54,2014-01-01,2014-12-31
+PSE,False,True,Not specified,Not specified,None,None,424953145,None,2014-01-01,2014-12-31
+PSE,False,True,CPSE13,occupied Palestinian territory 2013,Consolidated appeals process,400839740,270047918,67,2013-01-01,2013-12-31
+PSE,False,True,Not specified,Not specified,None,None,153418486,None,2013-01-01,2013-12-31
+PSE,False,True,CPSE12,occupied Palestinian territory 2012,Consolidated appeals process,419907202,311466307,74,2012-01-01,2012-12-31
+PSE,False,True,Not specified,Not specified,None,None,265485416,None,2012-01-01,2012-12-31
+PSE,False,True,CPSE11,occupied Palestinian territory 2011,Consolidated appeals process,536927963,306522538,57,2011-01-01,2011-12-31
+PSE,False,True,Not specified,Not specified,None,None,225586340,None,2011-01-01,2011-12-31
+PSE,False,True,CPSE10,occupied Palestinian territory 2010,Consolidated appeals process,603408539,329737701,55,2010-01-01,2010-12-31
+PSE,False,True,Not specified,Not specified,None,None,92292370,None,2010-01-01,2010-12-31
+PSE,False,True,CPSE09,occupied Palestinian territory 2009,Consolidated appeals process,804522005,646700051,80,2009-01-01,2009-12-31
+PSE,False,True,Not specified,Not specified,None,None,225928105,None,2009-01-01,2009-12-31
+PSE,False,True,CPSE08,occupied Palestinian territory 2008,Consolidated appeals process,452223961,337058442,75,2008-01-01,2008-12-31
+PSE,False,True,Not specified,Not specified,None,None,171370918,None,2008-01-01,2008-12-31
+PSE,False,True,CPSE07,occupied Palestinian territory 2007,Consolidated appeals process,426324665,279014878,65,2007-01-01,2007-12-31
+PSE,False,True,Not specified,Not specified,None,None,84006654,None,2007-01-01,2007-12-31
+PSE,False,True,CPSE06,occupied Palestinian territory 2006,Consolidated appeals process,394883810,275830801,70,2006-01-01,2006-12-31
+PSE,False,True,Not specified,Not specified,None,None,184385654,None,2006-01-01,2006-12-31
+PSE,False,True,CPSE05,occupied Palestinian territory 2005,Consolidated appeals process,301452508,213252866,71,2005-01-01,2005-12-31
+PSE,False,True,Not specified,Not specified,None,None,84760600,None,2005-01-01,2005-12-31
+PSE,False,True,CPSE04,occupied Palestinian territory 2004,Consolidated appeals process,300479250,177281661,59,2004-01-01,2004-12-31
+PSE,False,True,Not specified,Not specified,None,None,128768400,None,2004-01-01,2004-12-31
+PSE,False,True,CPSE03,occupied Palestinian territory 2003,Consolidated inter-agency appeal,293774854,175863110,60,2003-01-01,2003-12-31
+PSE,False,True,Not specified,Not specified,None,None,68557435,None,2003-01-01,2003-12-31
+PSE,False,True,Not specified,Not specified,None,None,46460730,None,2002-01-01,2002-12-31
+PSE,False,True,Not specified,Not specified,None,None,696528204,None,2001-01-01,2001-12-31
+PSE,False,True,Not specified,Not specified,None,None,132590780,None,2000-01-01,2000-12-31

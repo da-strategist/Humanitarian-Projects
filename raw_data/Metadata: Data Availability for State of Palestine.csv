@@ -1,0 +1,47 @@
+category,subcategory,location_code,admin1_code,admin1_name,admin2_code,admin2_name,admin_level,hapi_updated_date
+#category,#subcategory,#country+code,#adm1+code,#adm1+name,#adm2+code,#adm2+name,#adm+level,#date+updated
+geography-infrastructure,baseline-population,PSE,PS02,Gaza Strip,,,1,2025-10-08
+geography-infrastructure,baseline-population,PSE,,,,,0,2025-10-08
+geography-infrastructure,baseline-population,PSE,PS01,West Bank,,,1,2025-10-08
+affected-people,returnees,PSE,,,,,0,2025-10-08
+food-security-nutrition-poverty,poverty-rate,PSE,PS01,West Bank,,,1,2025-10-08
+food-security-nutrition-poverty,poverty-rate,PSE,,,,,0,2025-10-08
+food-security-nutrition-poverty,poverty-rate,PSE,PS02,Gaza Strip,,,1,2025-10-08
+affected-people,refugees-persons-of-concern,PSE,,,,,0,2025-10-08
+coordination-context,conflict-events,PSE,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2025-10-08
+coordination-context,conflict-events,PSE,PS02,Gaza Strip,PS0260,Gaza,2,2025-10-08
+coordination-context,conflict-events,PSE,PS02,Gaza Strip,PS0270,Khan Younis,2,2025-10-08
+coordination-context,conflict-events,PSE,PS02,Gaza Strip,PS0255,North Gaza,2,2025-10-08
+coordination-context,conflict-events,PSE,PS02,Gaza Strip,PS0275,Rafah,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0145,Bethlehem,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0150,Hebron,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0101,Jenin,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0135,Jericho,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0140,Jerusalem,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0115,Nablus,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0120,Qalqilya,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0130,Ramallah,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0125,Salfit,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0105,Tubas,2,2025-10-08
+coordination-context,conflict-events,PSE,PS01,West Bank,PS0110,Tulkarm,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS02,Gaza Strip,PS0260,Gaza,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS02,Gaza Strip,PS0270,Khan Younis,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS02,Gaza Strip,PS0255,North Gaza,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS02,Gaza Strip,PS0275,Rafah,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,PS0145,Bethlehem,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,PS0150,Hebron,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,PS0101,Jenin,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,PS0135,Jericho,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,PS0115,Nablus,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,PS0120,Qalqilya,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,PS0110,Tulkarm,2,2025-10-08
+food-security-nutrition-poverty,food-prices-market-monitor,PSE,PS01,West Bank,,,2,2025-10-08
+coordination-context,funding,PSE,,,,,0,2025-10-08
+food-security-nutrition-poverty,food-security,PSE,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2025-10-08
+food-security-nutrition-poverty,food-security,PSE,PS02,Gaza Strip,PS0260,Gaza,2,2025-10-08
+food-security-nutrition-poverty,food-security,PSE,PS02,Gaza Strip,PS0270,Khan Younis,2,2025-10-08
+food-security-nutrition-poverty,food-security,PSE,PS02,Gaza Strip,PS0255,North Gaza,2,2025-10-08
+food-security-nutrition-poverty,food-security,PSE,PS02,Gaza Strip,PS0275,Rafah,2,2025-10-08
+food-security-nutrition-poverty,food-security,PSE,,,,,0,2025-10-08
+food-security-nutrition-poverty,food-security,PSE,,,,,2,2025-10-08
+coordination-context,national-risk,PSE,,,,,0,2025-10-08
