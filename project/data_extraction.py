@@ -4,6 +4,8 @@ import requests
 import dagster as dg
 from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
+import os
+from pathlib import Path
 
 
 @dg.asset()
@@ -23,17 +25,25 @@ def data_extract() -> None:
         print(f'Dataset Found!: {dataset["name"]}')
         print(f'Title: {dataset["title"]}')
 
+        project_root = Path(__file__).parent.parent
+        download_dir = project_root/"project"/"raw_data"/"hdx_hapi_data"
+        download_dir.mkdir(parents= True, exist_ok= True)
+
         resources = dataset.get_resources()
 
         for i, resource in enumerate(resources):
+            resource_name = resource['name']
             print(f'\n--- Resource {i+1}: {resource["name"]} ---')
+
+            #file_path = download_dir/resource_name      
             try:
-                url, path = resource.download("./project/raw_data")
+                url, path = resource.download(str(download_dir))
                 print(f'Downloaded from: {url}')
                 print(f'Saved to: {path}')
             except Exception as e:
-                print(f'Download from failed {e}')
+                print(f'Download failed: {e}')
 
+            
 
 
 #data extract from acled site
@@ -56,12 +66,16 @@ def pse_acled_ext () -> None:
     else:
         print(f'Dataset found!: {dataset["name"]}')
         print(f'Title: {dataset["title"]}')
+        
+        project_root = Path(__file__).parent.parent
+        download_dir = project_root/"project"/"raw_data"/"acled"
+        download_dir.mkdir(parents= True, exist_ok= True)
 
         resource = dataset.get_resources()
 
         for i, resources in enumerate(resource):
             try:
-                url, path = resources.download('./project/raw_data/acled')
+                url, path = resources.download(str(download_dir))
                 print(f'data successfully downloaded from: {url}')
                 print(f'data successfully saved to: {path}')
             except Exception as e:
