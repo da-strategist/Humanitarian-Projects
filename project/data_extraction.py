@@ -29,6 +29,13 @@ def data_extract() -> None:
         download_dir = project_root/"project"/"raw_data"/"hdx_hapi_data"
         download_dir.mkdir(parents= True, exist_ok= True)
 
+
+        print('Cleaning existing files...')
+        for old_file in download_dir.glob('*'):
+            if old_file.is_file():
+                old_file.unlink()
+                print(f'Deleted: {old_file.name}')
+
         resources = dataset.get_resources()
 
         for i, resource in enumerate(resources):
@@ -70,6 +77,12 @@ def pse_acled_ext () -> None:
         project_root = Path(__file__).parent.parent
         download_dir = project_root/"project"/"raw_data"/"acled"
         download_dir.mkdir(parents= True, exist_ok= True)
+
+        print('Cleaning existing files...')
+        for old_file in download_dir.glob('*'):
+            if old_file.is_file():
+                old_file.unlink()
+                print(f'Deleted: {old_file.name}')
 
         resource = dataset.get_resources()
 
