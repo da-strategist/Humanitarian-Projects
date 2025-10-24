@@ -93,3 +93,48 @@ def pse_acled_ext () -> None:
                 print(f'data successfully saved to: {path}')
             except Exception as e:
                 print(f'Download failed!!! {e}')
+
+
+
+
+@dg.asset()
+def civ_target_events_ext () -> None:
+
+    """
+    A weekly dataset providing the total number of reported civilian targeting events and fatalities broken down by country. 
+    Civilian targeting events include violence against civilians events and explosions/remote violence events in which civilians were directly targeted.
+    This dataset was sourced from the Armed Conflict Location & Event Data Project (ACLED), it is updated weekly
+
+    """
+
+    Configuration.create(hdx_site = 'prod', 
+                         user_agent = 'civilian-targeting-events-and-fatalities',
+                         hdx_read_only = True)
+    dataset = Dataset.read_from_hdx('civilian-targeting-events-and-fatalities_as-of-2025-10-17')
+
+    if not dataset:
+        print('dataset not found!!!, Look elsewhere')
+    
+    else:
+        print(f'Dataset found!: {dataset["name"]}')
+        print(f'Title: {dataset["title"]}')
+        
+        project_root = Path(__file__).parent.parent
+        download_dir = project_root/"project"/"raw_data"/"acled"
+        download_dir.mkdir(parents= True, exist_ok= True)
+
+        print('Cleaning existing files...')
+        for old_file in download_dir.glob('*'):
+            if old_file.is_file():
+                old_file.unlink()
+                print(f'Deleted: {old_file.name}')
+
+        resource = dataset.get_resources()
+
+        for i, resources in enumerate(resource):
+            try:
+                url, path = resources.download(str(download_dir))
+                print(f'data successfully downloaded from: {url}')
+                print(f'data successfully saved to: {path}')
+            except Exception as e:
+                print(f'Download failed!!! {e}')
