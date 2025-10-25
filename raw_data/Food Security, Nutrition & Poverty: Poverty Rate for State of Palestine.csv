@@ -1,0 +1,11 @@
+location_code,has_hrp,in_gho,provider_admin1_name,admin1_code,admin1_name,admin_level,mpi,headcount_ratio,intensity_of_deprivation,vulnerable_to_poverty,in_severe_poverty,reference_period_start,reference_period_end
+#country+code,#meta+has_hrp,#meta+in_gho,#adm1+name+provider,#adm1+code,#adm1+name,#adm+level,#indicator+mpi,#indicator+headcount_ratio,#indicator+intensity_of_deprivation,#indicator+vulnerable_to_poverty,#indicator+in_severe_poverty,#date+start,#date+end
+PSE,False,True,,,,0,0.0039,1.1075,35.3896,2.1467,0.0279,2010-01-01,2010-12-31
+PSE,False,True,,,,0,0.0029,0.8017,35.7876,1.2217,0.0707,2014-01-01,2014-12-31
+PSE,False,True,,,,0,0.0019,0.5469,34.6861,0.8969,0.0065,2019-01-01,2020-12-31
+PSE,False,True,Gaza Strip,PS02,Gaza Strip,1,0.0037,1.0433,35.0764,1.8427,0.0,2010-01-01,2010-12-31
+PSE,False,True,Gaza Strip,PS02,Gaza Strip,1,0.0034,0.9606,35.865,1.9972,0.1085,2014-01-01,2014-12-31
+PSE,False,True,Gaza Strip,PS02,Gaza Strip,1,0.0018,0.5099,34.8862,1.3056,0.0,2019-01-01,2020-12-31
+PSE,False,True,West Bank,PS01,West Bank,1,0.0041,1.1496,35.5761,2.3463,0.0461,2010-01-01,2010-12-31
+PSE,False,True,West Bank,PS01,West Bank,1,0.0025,0.6866,35.7092,0.6602,0.0434,2014-01-01,2014-12-31
+PSE,False,True,West Bank,PS01,West Bank,1,0.002,0.5731,34.56,0.6074,0.0111,2019-01-01,2020-12-31

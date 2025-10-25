@@ -1,0 +1,366 @@
+location_code,has_hrp,in_gho,provider_admin1_name,provider_admin2_name,admin1_code,admin1_name,admin2_code,admin2_name,admin_level,ipc_phase,ipc_type,population_in_phase,population_fraction_in_phase,reference_period_start,reference_period_end
+#country+code,#meta+has_hrp,#meta+in_gho,#adm1+name+provider,#adm2+name+provider,#adm1+code,#adm1+name,#adm2+code,#adm2+name,#adm+level,#severity+v_ipc,#period+v_ipc,#affected+num,#affected+pct,#date+start,#date+end
+PSE,False,True,,,,,,,0,all,current,1979219,1.0,2025-07-01,2025-08-31
+PSE,False,True,,,,,,,0,3+,current,1979219,1.0,2025-07-01,2025-08-31
+PSE,False,True,,,,,,,0,1,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,,,,,,0,2,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,,,,,,0,3,current,395844,0.2,2025-07-01,2025-08-31
+PSE,False,True,,,,,,,0,4,current,1069655,0.54,2025-07-01,2025-08-31
+PSE,False,True,,,,,,,0,5,current,513720,0.26,2025-07-01,2025-08-31
+PSE,False,True,,,,,,,0,all,first projection,1979219,1.0,2025-08-01,2025-09-30
+PSE,False,True,,,,,,,0,3+,first projection,1979219,1.0,2025-08-01,2025-09-30
+PSE,False,True,,,,,,,0,1,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,,,,,,0,2,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,,,,,,0,3,first projection,197922,0.1,2025-08-01,2025-09-30
+PSE,False,True,,,,,,,0,4,first projection,1140651,0.58,2025-08-01,2025-09-30
+PSE,False,True,,,,,,,0,5,first projection,640646,0.32,2025-08-01,2025-09-30
+PSE,False,True,,,,,,,0,all,current,2100000,1.0,2025-04-01,2025-05-31
+PSE,False,True,,,,,,,0,3+,current,1944000,0.93,2025-04-01,2025-05-31
+PSE,False,True,,,,,,,0,1,current,0,0.0,2025-04-01,2025-05-31
+PSE,False,True,,,,,,,0,2,current,156000,0.07,2025-04-01,2025-05-31
+PSE,False,True,,,,,,,0,3,current,775000,0.37,2025-04-01,2025-05-31
+PSE,False,True,,,,,,,0,4,current,925000,0.44,2025-04-01,2025-05-31
+PSE,False,True,,,,,,,0,5,current,244000,0.12,2025-04-01,2025-05-31
+PSE,False,True,,,,,,,0,all,first projection,2100000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,,,,,,0,3+,first projection,2100000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,,,,,,0,1,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,,,,,,0,2,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,,,,,,0,3,first projection,495500,0.24,2025-05-01,2025-09-30
+PSE,False,True,,,,,,,0,4,first projection,1135000,0.54,2025-05-01,2025-09-30
+PSE,False,True,,,,,,,0,5,first projection,469500,0.22,2025-05-01,2025-09-30
+PSE,False,True,,,,,,,0,all,current,2140618,1.0,2024-09-01,2024-10-31
+PSE,False,True,,,,,,,0,3+,current,1841061,0.86,2024-09-01,2024-10-31
+PSE,False,True,,,,,,,0,1,current,0,0.0,2024-09-01,2024-10-31
+PSE,False,True,,,,,,,0,2,current,299557,0.14,2024-09-01,2024-10-31
+PSE,False,True,,,,,,,0,3,current,1044353,0.49,2024-09-01,2024-10-31
+PSE,False,True,,,,,,,0,4,current,663721,0.31,2024-09-01,2024-10-31
+PSE,False,True,,,,,,,0,5,current,132987,0.06,2024-09-01,2024-10-31
+PSE,False,True,,,,,,,0,all,first projection,2140618,1.0,2024-11-01,2025-04-30
+PSE,False,True,,,,,,,0,3+,first projection,1948092,0.91,2024-11-01,2025-04-30
+PSE,False,True,,,,,,,0,1,first projection,0,0.0,2024-11-01,2025-04-30
+PSE,False,True,,,,,,,0,2,first projection,192526,0.09,2024-11-01,2025-04-30
+PSE,False,True,,,,,,,0,3,first projection,727681,0.34,2024-11-01,2025-04-30
+PSE,False,True,,,,,,,0,4,first projection,875573,0.41,2024-11-01,2025-04-30
+PSE,False,True,,,,,,,0,5,first projection,344839,0.16,2024-11-01,2025-04-30
+PSE,False,True,,,,,,,0,all,current,2251457,1.0,2024-05-01,2024-06-30
+PSE,False,True,,,,,,,0,3+,current,2133884,0.95,2024-05-01,2024-06-30
+PSE,False,True,,,,,,,0,1,current,10000,0.0,2024-05-01,2024-06-30
+PSE,False,True,,,,,,,0,2,current,107573,0.05,2024-05-01,2024-06-30
+PSE,False,True,,,,,,,0,3,current,1148301,0.51,2024-05-01,2024-06-30
+PSE,False,True,,,,,,,0,4,current,642864,0.29,2024-05-01,2024-06-30
+PSE,False,True,,,,,,,0,5,current,342719,0.15,2024-05-01,2024-06-30
+PSE,False,True,,,,,,,0,all,first projection,2251457,1.0,2024-06-01,2024-09-30
+PSE,False,True,,,,,,,0,3+,first projection,2153884,0.96,2024-06-01,2024-09-30
+PSE,False,True,,,,,,,0,1,first projection,0,0.0,2024-06-01,2024-09-30
+PSE,False,True,,,,,,,0,2,first projection,97573,0.04,2024-06-01,2024-09-30
+PSE,False,True,,,,,,,0,3,first projection,913156,0.41,2024-06-01,2024-09-30
+PSE,False,True,,,,,,,0,4,first projection,745437,0.33,2024-06-01,2024-09-30
+PSE,False,True,,,,,,,0,5,first projection,495291,0.22,2024-06-01,2024-09-30
+PSE,False,True,,,,,,,0,all,current,2226544,1.0,2024-02-01,2024-03-31
+PSE,False,True,,,,,,,0,3+,current,2130217,0.95,2024-02-01,2024-03-31
+PSE,False,True,,,,,,,0,1,current,0,0.0,2024-02-01,2024-03-31
+PSE,False,True,,,,,,,0,2,current,96327,0.05,2024-02-01,2024-03-31
+PSE,False,True,,,,,,,0,3,current,577963,0.26,2024-02-01,2024-03-31
+PSE,False,True,,,,,,,0,4,current,875618,0.39,2024-02-01,2024-03-31
+PSE,False,True,,,,,,,0,5,current,676636,0.3,2024-02-01,2024-03-31
+PSE,False,True,,,,,,,0,all,first projection,2226544,1.0,2024-03-01,2024-07-31
+PSE,False,True,,,,,,,0,3+,first projection,2226544,1.0,2024-03-01,2024-07-31
+PSE,False,True,,,,,,,0,1,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,,,,,,0,2,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,,,,,,0,3,first projection,265309,0.12,2024-03-01,2024-07-31
+PSE,False,True,,,,,,,0,4,first projection,854290,0.38,2024-03-01,2024-07-31
+PSE,False,True,,,,,,,0,5,first projection,1106945,0.5,2024-03-01,2024-07-31
+PSE,False,True,,,,,,,0,all,current,2226544,1.0,2023-11-01,2023-12-31
+PSE,False,True,,,,,,,0,3+,current,2082400,0.93,2023-11-01,2023-12-31
+PSE,False,True,,,,,,,0,1,current,0,0.0,2023-11-01,2023-12-31
+PSE,False,True,,,,,,,0,2,current,144700,0.07,2023-11-01,2023-12-31
+PSE,False,True,,,,,,,0,3,current,766000,0.34,2023-11-01,2023-12-31
+PSE,False,True,,,,,,,0,4,current,938600,0.42,2023-11-01,2023-12-31
+PSE,False,True,,,,,,,0,5,current,377800,0.17,2023-11-01,2023-12-31
+PSE,False,True,,,,,,,0,all,first projection,2226544,1.0,2023-12-01,2024-02-29
+PSE,False,True,,,,,,,0,3+,first projection,2224000,1.0,2023-12-01,2024-02-29
+PSE,False,True,,,,,,,0,1,first projection,0,0.0,2023-12-01,2024-02-29
+PSE,False,True,,,,,,,0,2,first projection,2500,0.0,2023-12-01,2024-02-29
+PSE,False,True,,,,,,,0,3,first projection,477800,0.21,2023-12-01,2024-02-29
+PSE,False,True,,,,,,,0,4,first projection,1169600,0.53,2023-12-01,2024-02-29
+PSE,False,True,,,,,,,0,5,first projection,576600,0.26,2023-12-01,2024-02-29
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,all,current,482315,1.0,2025-07-01,2025-08-31
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3+,current,482315,1.0,2025-07-01,2025-08-31
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,1,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3,current,96463,0.2,2025-07-01,2025-08-31
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,4,current,265273,0.55,2025-07-01,2025-08-31
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,5,current,120579,0.25,2025-07-01,2025-08-31
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,all,first projection,482315,1.0,2025-08-01,2025-09-30
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3+,first projection,482316,1.0,2025-08-01,2025-09-30
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,1,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3,first projection,48232,0.1,2025-08-01,2025-09-30
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,4,first projection,289389,0.6,2025-08-01,2025-09-30
+PSE,False,True,,Deir al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,5,first projection,144695,0.3,2025-08-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,all,current,937604,1.0,2025-07-01,2025-08-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3+,current,937604,1.0,2025-07-01,2025-08-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,1,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,2,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3,current,187521,0.2,2025-07-01,2025-08-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,4,current,468802,0.5,2025-07-01,2025-08-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,5,current,281281,0.3,2025-07-01,2025-08-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,all,first projection,937604,1.0,2025-08-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3+,first projection,937603,1.0,2025-08-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,1,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,2,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3,first projection,93760,0.1,2025-08-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,4,first projection,515682,0.55,2025-08-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,5,first projection,328161,0.35,2025-08-01,2025-09-30
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,all,current,559300,1.0,2025-07-01,2025-08-31
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3+,current,559300,1.0,2025-07-01,2025-08-31
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,1,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,2,current,0,0.0,2025-07-01,2025-08-31
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3,current,111860,0.2,2025-07-01,2025-08-31
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,4,current,335580,0.6,2025-07-01,2025-08-31
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,5,current,111860,0.2,2025-07-01,2025-08-31
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,all,first projection,559300,1.0,2025-08-01,2025-09-30
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3+,first projection,559300,1.0,2025-08-01,2025-09-30
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,1,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,2,first projection,0,0.0,2025-08-01,2025-09-30
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3,first projection,55930,0.1,2025-08-01,2025-09-30
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,4,first projection,335580,0.6,2025-08-01,2025-09-30
+PSE,False,True,,Khan Younis,PS02,Gaza Strip,PS0270,Khan Younis,2,5,first projection,167790,0.3,2025-08-01,2025-09-30
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,all,current,400000,1.0,2025-04-01,2025-05-31
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3+,current,360000,0.9,2025-04-01,2025-05-31
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,1,current,0,0.0,2025-04-01,2025-05-31
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2,current,40000,0.1,2025-04-01,2025-05-31
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3,current,180000,0.45,2025-04-01,2025-05-31
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,4,current,160000,0.4,2025-04-01,2025-05-31
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,5,current,20000,0.05,2025-04-01,2025-05-31
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,all,first projection,400000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3+,first projection,400000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,1,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3,first projection,120000,0.3,2025-05-01,2025-09-30
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,4,first projection,220000,0.55,2025-05-01,2025-09-30
+PSE,False,True,,Deir al-balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,5,first projection,60000,0.15,2025-05-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,all,current,740000,1.0,2025-04-01,2025-05-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3+,current,703000,0.95,2025-04-01,2025-05-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,1,current,0,0.0,2025-04-01,2025-05-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,2,current,37000,0.05,2025-04-01,2025-05-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3,current,259000,0.35,2025-04-01,2025-05-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,4,current,333000,0.45,2025-04-01,2025-05-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,5,current,111000,0.15,2025-04-01,2025-05-31
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,all,first projection,740000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3+,first projection,740000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,1,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,2,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,3,first projection,185000,0.25,2025-05-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,4,first projection,370000,0.5,2025-05-01,2025-09-30
+PSE,False,True,,Gaza,PS02,Gaza Strip,PS0260,Gaza,2,5,first projection,185000,0.25,2025-05-01,2025-09-30
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,all,current,620000,1.0,2025-04-01,2025-05-31
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3+,current,558000,0.9,2025-04-01,2025-05-31
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,1,current,0,0.0,2025-04-01,2025-05-31
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,2,current,62000,0.1,2025-04-01,2025-05-31
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3,current,217000,0.35,2025-04-01,2025-05-31
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,4,current,279000,0.45,2025-04-01,2025-05-31
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,5,current,62000,0.1,2025-04-01,2025-05-31
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,all,first projection,620000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3+,first projection,620000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,1,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,2,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,3,first projection,155000,0.25,2025-05-01,2025-09-30
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,4,first projection,341000,0.55,2025-05-01,2025-09-30
+PSE,False,True,,Khan younis,PS02,Gaza Strip,PS0270,Khan Younis,2,5,first projection,124000,0.2,2025-05-01,2025-09-30
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,all,current,310000,1.0,2025-04-01,2025-05-31
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3+,current,294500,0.95,2025-04-01,2025-05-31
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,1,current,0,0.0,2025-04-01,2025-05-31
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,2,current,15500,0.05,2025-04-01,2025-05-31
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3,current,108500,0.35,2025-04-01,2025-05-31
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,4,current,139500,0.45,2025-04-01,2025-05-31
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,5,current,46500,0.15,2025-04-01,2025-05-31
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,all,first projection,310000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3+,first projection,310000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,1,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,2,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3,first projection,31000,0.1,2025-05-01,2025-09-30
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,4,first projection,186000,0.6,2025-05-01,2025-09-30
+PSE,False,True,,North gaza,PS02,Gaza Strip,PS0255,North Gaza,2,5,first projection,93000,0.3,2025-05-01,2025-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,all,current,30000,1.0,2025-04-01,2025-05-31
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3+,current,28500,0.95,2025-04-01,2025-05-31
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,1,current,0,0.0,2025-04-01,2025-05-31
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,2,current,1500,0.05,2025-04-01,2025-05-31
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3,current,10500,0.35,2025-04-01,2025-05-31
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,4,current,13500,0.45,2025-04-01,2025-05-31
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,5,current,4500,0.15,2025-04-01,2025-05-31
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,all,first projection,30000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3+,first projection,30000,1.0,2025-05-01,2025-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,1,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,2,first projection,0,0.0,2025-05-01,2025-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3,first projection,4500,0.15,2025-05-01,2025-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,4,first projection,18000,0.6,2025-05-01,2025-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,5,first projection,7500,0.25,2025-05-01,2025-09-30
+PSE,False,True,,Northern Governorates,,,,,2,all,current,430715,1.0,2024-09-01,2024-10-31
+PSE,False,True,,Northern Governorates,,,,,2,3+,current,387644,0.9,2024-09-01,2024-10-31
+PSE,False,True,,Northern Governorates,,,,,2,1,current,0,0.0,2024-09-01,2024-10-31
+PSE,False,True,,Northern Governorates,,,,,2,2,current,43072,0.1,2024-09-01,2024-10-31
+PSE,False,True,,Northern Governorates,,,,,2,3,current,193822,0.45,2024-09-01,2024-10-31
+PSE,False,True,,Northern Governorates,,,,,2,4,current,150750,0.35,2024-09-01,2024-10-31
+PSE,False,True,,Northern Governorates,,,,,2,5,current,43072,0.1,2024-09-01,2024-10-31
+PSE,False,True,,Northern Governorates,,,,,2,all,first projection,430715,1.0,2024-11-01,2025-04-30
+PSE,False,True,,Northern Governorates,,,,,2,3+,first projection,409180,0.95,2024-11-01,2025-04-30
+PSE,False,True,,Northern Governorates,,,,,2,1,first projection,0,0.0,2024-11-01,2025-04-30
+PSE,False,True,,Northern Governorates,,,,,2,2,first projection,21536,0.05,2024-11-01,2025-04-30
+PSE,False,True,,Northern Governorates,,,,,2,3,first projection,129215,0.3,2024-11-01,2025-04-30
+PSE,False,True,,Northern Governorates,,,,,2,4,first projection,193822,0.45,2024-11-01,2025-04-30
+PSE,False,True,,Northern Governorates,,,,,2,5,first projection,86143,0.2,2024-11-01,2025-04-30
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,all,current,44201,1.0,2024-09-01,2024-10-31
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,3+,current,37570,0.85,2024-09-01,2024-10-31
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,1,current,0,0.0,2024-09-01,2024-10-31
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,2,current,6630,0.15,2024-09-01,2024-10-31
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,3,current,17680,0.4,2024-09-01,2024-10-31
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,4,current,13260,0.3,2024-09-01,2024-10-31
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,5,current,6630,0.15,2024-09-01,2024-10-31
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,all,first projection,44201,1.0,2024-11-01,2025-04-30
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,3+,first projection,39780,0.9,2024-11-01,2025-04-30
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,1,first projection,0,0.0,2024-11-01,2025-04-30
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,2,first projection,4420,0.1,2024-11-01,2025-04-30
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,3,first projection,15470,0.35,2024-11-01,2025-04-30
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,4,first projection,15470,0.35,2024-11-01,2025-04-30
+PSE,False,True,,Rafah Governorate,PS02,Gaza Strip,PS0275,Rafah,2,5,first projection,8840,0.2,2024-11-01,2025-04-30
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,all,current,1665702,1.0,2024-09-01,2024-10-31
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,3+,current,1415847,0.85,2024-09-01,2024-10-31
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,1,current,0,0.0,2024-09-01,2024-10-31
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,2,current,249855,0.15,2024-09-01,2024-10-31
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,3,current,832851,0.5,2024-09-01,2024-10-31
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,4,current,499711,0.3,2024-09-01,2024-10-31
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,5,current,83285,0.05,2024-09-01,2024-10-31
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,all,first projection,1665702,1.0,2024-11-01,2025-04-30
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,3+,first projection,1499132,0.9,2024-11-01,2025-04-30
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,1,first projection,0,0.0,2024-11-01,2025-04-30
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,2,first projection,166570,0.1,2024-11-01,2025-04-30
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,3,first projection,582996,0.35,2024-11-01,2025-04-30
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,4,first projection,666281,0.4,2024-11-01,2025-04-30
+PSE,False,True,,Deir al Balah & Khan Younis Governorates,,,,,2,5,first projection,249855,0.15,2024-11-01,2025-04-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,all,current,300000,1.0,2024-05-01,2024-06-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3+,current,300000,1.0,2024-05-01,2024-06-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,1,current,0,0.0,2024-05-01,2024-06-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,2,current,0,0.0,2024-05-01,2024-06-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3,current,105000,0.35,2024-05-01,2024-06-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,4,current,135000,0.45,2024-05-01,2024-06-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,5,current,60000,0.2,2024-05-01,2024-06-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,all,first projection,300000,1.0,2024-06-01,2024-09-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3+,first projection,300000,1.0,2024-06-01,2024-09-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,1,first projection,0,0.0,2024-06-01,2024-09-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,2,first projection,0,0.0,2024-06-01,2024-09-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,3,first projection,75000,0.25,2024-06-01,2024-09-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,4,first projection,150000,0.5,2024-06-01,2024-09-30
+PSE,False,True,,North Gaza,PS02,Gaza Strip,PS0255,North Gaza,2,5,first projection,75000,0.25,2024-06-01,2024-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,all,current,200000,1.0,2024-05-01,2024-06-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3+,current,170000,0.85,2024-05-01,2024-06-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,1,current,10000,0.05,2024-05-01,2024-06-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,2,current,20000,0.1,2024-05-01,2024-06-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3,current,80000,0.4,2024-05-01,2024-06-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,4,current,70000,0.35,2024-05-01,2024-06-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,5,current,20000,0.1,2024-05-01,2024-06-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,all,first projection,200000,1.0,2024-06-01,2024-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3+,first projection,190000,0.95,2024-06-01,2024-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,1,first projection,0,0.0,2024-06-01,2024-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,2,first projection,10000,0.05,2024-06-01,2024-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,3,first projection,50000,0.25,2024-06-01,2024-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,4,first projection,70000,0.35,2024-06-01,2024-09-30
+PSE,False,True,,Rafah,PS02,Gaza Strip,PS0275,Rafah,2,5,first projection,70000,0.35,2024-06-01,2024-09-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,all,current,1751457,1.0,2024-05-01,2024-06-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3+,current,1663884,0.95,2024-05-01,2024-06-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,1,current,0,0.0,2024-05-01,2024-06-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2,current,87573,0.05,2024-05-01,2024-06-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3,current,963301,0.55,2024-05-01,2024-06-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,4,current,437864,0.25,2024-05-01,2024-06-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,5,current,262719,0.15,2024-05-01,2024-06-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,all,first projection,1751457,1.0,2024-06-01,2024-09-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3+,first projection,1663884,0.95,2024-06-01,2024-09-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,1,first projection,0,0.0,2024-06-01,2024-09-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,2,first projection,87573,0.05,2024-06-01,2024-09-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,3,first projection,788156,0.45,2024-06-01,2024-09-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,4,first projection,525437,0.3,2024-06-01,2024-09-30
+PSE,False,True,,Deir Al-Balah,PS02,Gaza Strip,PS0265,Deir Al-Balah,2,5,first projection,350291,0.2,2024-06-01,2024-09-30
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,all,current,600000,1.0,2024-02-01,2024-03-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,3+,current,570000,0.95,2024-02-01,2024-03-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,1,current,0,0.0,2024-02-01,2024-03-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,2,current,30000,0.05,2024-02-01,2024-03-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,3,current,120000,0.2,2024-02-01,2024-03-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,4,current,270000,0.45,2024-02-01,2024-03-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,5,current,180000,0.3,2024-02-01,2024-03-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,all,first projection,600000,1.0,2024-03-01,2024-07-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,3+,first projection,600000,1.0,2024-03-01,2024-07-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,1,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,2,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,3,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,4,first projection,300000,0.5,2024-03-01,2024-07-31
+PSE,False,True,,Deir al-balah & khan younis governorates,,,,,2,5,first projection,300000,0.5,2024-03-01,2024-07-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,all,current,300000,1.0,2024-02-01,2024-03-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,3+,current,300000,1.0,2024-02-01,2024-03-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,1,current,0,0.0,2024-02-01,2024-03-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,2,current,0,0.0,2024-02-01,2024-03-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,3,current,60000,0.2,2024-02-01,2024-03-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,4,current,75000,0.25,2024-02-01,2024-03-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,5,current,165000,0.55,2024-02-01,2024-03-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,all,first projection,300000,1.0,2024-03-01,2024-07-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,3+,first projection,300000,1.0,2024-03-01,2024-07-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,1,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,2,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,3,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,4,first projection,90000,0.3,2024-03-01,2024-07-31
+PSE,False,True,,North gaza & gaza governorates,,,,,2,5,first projection,210000,0.7,2024-03-01,2024-07-31
+PSE,False,True,,Rafah governorate,,,,,2,all,current,1326544,1.0,2024-02-01,2024-03-31
+PSE,False,True,,Rafah governorate,,,,,2,3+,current,1260217,0.95,2024-02-01,2024-03-31
+PSE,False,True,,Rafah governorate,,,,,2,1,current,0,0.0,2024-02-01,2024-03-31
+PSE,False,True,,Rafah governorate,,,,,2,2,current,66327,0.05,2024-02-01,2024-03-31
+PSE,False,True,,Rafah governorate,,,,,2,3,current,397963,0.3,2024-02-01,2024-03-31
+PSE,False,True,,Rafah governorate,,,,,2,4,current,530618,0.4,2024-02-01,2024-03-31
+PSE,False,True,,Rafah governorate,,,,,2,5,current,331636,0.25,2024-02-01,2024-03-31
+PSE,False,True,,Rafah governorate,,,,,2,all,first projection,1326544,1.0,2024-03-01,2024-07-31
+PSE,False,True,,Rafah governorate,,,,,2,3+,first projection,1326544,1.0,2024-03-01,2024-07-31
+PSE,False,True,,Rafah governorate,,,,,2,1,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,Rafah governorate,,,,,2,2,first projection,0,0.0,2024-03-01,2024-07-31
+PSE,False,True,,Rafah governorate,,,,,2,3,first projection,265309,0.2,2024-03-01,2024-07-31
+PSE,False,True,,Rafah governorate,,,,,2,4,first projection,464290,0.35,2024-03-01,2024-07-31
+PSE,False,True,,Rafah governorate,,,,,2,5,first projection,596945,0.45,2024-03-01,2024-07-31
+PSE,False,True,,Northern Governorates,,,,,2,all,current,600000,1.0,2023-11-01,2023-12-31
+PSE,False,True,,Northern Governorates,,,,,2,3+,current,570000,0.95,2023-11-01,2023-12-31
+PSE,False,True,,Northern Governorates,,,,,2,1,current,0,0.0,2023-11-01,2023-12-31
+PSE,False,True,,Northern Governorates,,,,,2,2,current,30000,0.05,2023-11-01,2023-12-31
+PSE,False,True,,Northern Governorates,,,,,2,3,current,180000,0.3,2023-11-01,2023-12-31
+PSE,False,True,,Northern Governorates,,,,,2,4,current,240000,0.4,2023-11-01,2023-12-31
+PSE,False,True,,Northern Governorates,,,,,2,5,current,150000,0.25,2023-11-01,2023-12-31
+PSE,False,True,,Northern Governorates,,,,,2,all,first projection,500000,1.0,2023-12-01,2024-02-29
+PSE,False,True,,Northern Governorates,,,,,2,3+,first projection,500000,1.0,2023-12-01,2024-02-29
+PSE,False,True,,Northern Governorates,,,,,2,1,first projection,0,0.0,2023-12-01,2024-02-29
+PSE,False,True,,Northern Governorates,,,,,2,2,first projection,0,0.0,2023-12-01,2024-02-29
+PSE,False,True,,Northern Governorates,,,,,2,3,first projection,125000,0.25,2023-12-01,2024-02-29
+PSE,False,True,,Northern Governorates,,,,,2,4,first projection,225000,0.45,2023-12-01,2024-02-29
+PSE,False,True,,Northern Governorates,,,,,2,5,first projection,150000,0.3,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorates,,,,,2,all,current,333982,1.0,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorates,,,,,2,3+,current,284400,0.85,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorates,,,,,2,1,current,0,0.0,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorates,,,,,2,2,current,50100,0.15,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorates,,,,,2,3,current,133600,0.4,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorates,,,,,2,4,current,116900,0.35,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorates,,,,,2,5,current,33900,0.1,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorates,,,,,2,all,first projection,50000,1.0,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorates,,,,,2,3+,first projection,47500,0.95,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorates,,,,,2,1,first projection,0,0.0,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorates,,,,,2,2,first projection,2500,0.05,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorates,,,,,2,3,first projection,17500,0.35,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorates,,,,,2,4,first projection,22500,0.45,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorates,,,,,2,5,first projection,7500,0.15,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorate IDPs,,,,,2,all,current,1292562,1.0,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorate IDPs,,,,,2,3+,current,1228000,0.95,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorate IDPs,,,,,2,1,current,0,0.0,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorate IDPs,,,,,2,2,current,64600,0.05,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorate IDPs,,,,,2,3,current,452400,0.35,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorate IDPs,,,,,2,4,current,581700,0.45,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorate IDPs,,,,,2,5,current,193900,0.15,2023-11-01,2023-12-31
+PSE,False,True,,Southern Governorate IDPs,,,,,2,all,first projection,1676544,1.0,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorate IDPs,,,,,2,3+,first projection,1676500,1.0,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorate IDPs,,,,,2,1,first projection,0,0.0,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorate IDPs,,,,,2,2,first projection,0,0.0,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorate IDPs,,,,,2,3,first projection,335300,0.2,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorate IDPs,,,,,2,4,first projection,922100,0.55,2023-12-01,2024-02-29
+PSE,False,True,,Southern Governorate IDPs,,,,,2,5,first projection,419100,0.25,2023-12-01,2024-02-29

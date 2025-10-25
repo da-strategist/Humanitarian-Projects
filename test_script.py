@@ -4,19 +4,23 @@ from hdx.api.configuration import Configuration
 from hdx.data.dataset import Dataset
 
 
-Configuration.create(hdx_site='prod', user_agent='A_Quick_Example', hdx_read_only=True)
-dataset = Dataset.search_in_hdx('State of Palestine')
+Configuration.create(hdx_site='prod', user_agent= 'Palestine_HAPI_Data_Pipeline', hdx_read_only=True)
+dataset = Dataset.read_from_hdx('hdx-hapi-pse')
 
 if not dataset:
     print('item does not exist, look elsewhere')
 else:
-    print(f'found {len(dataset)} in {dataset}')
+    print(f'Dataset found: {dataset["name"]}')
+    print(f'Title {dataset["title"]}')
 
-    for i, dataset in enumerate(dataset[:3]):  # limit to first 3
-        print(f"\nDataset {i+1}: {dataset['name']}")
-        resources = dataset.get_resources()
-
-        for resource in resources:
-            url, path = resource.download("./raw_data")
-            print(f'Resource url{url} downloaded to {path}')
-
+    resources = dataset.get_resources()
+    print(f'\nFound {len(resources)} resources')
+    
+    for i, resource in enumerate(resources):  # limit to first 3
+        print(f'\n--- Resource {i+1}: {resource["name"]} ---')
+        try:
+            url, path = resource.download('./raw_data')
+            print(f'Downloaded from: {url}')
+            print(f'Saved to: {path}')
+        except Exception as e:
+            print(f'Error downloading: {e}')

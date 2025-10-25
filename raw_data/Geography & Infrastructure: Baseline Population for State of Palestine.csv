@@ -1,0 +1,164 @@
+location_code,has_hrp,in_gho,provider_admin1_name,provider_admin2_name,admin1_code,admin1_name,admin2_code,admin2_name,admin_level,gender,age_range,min_age,max_age,population,reference_period_start,reference_period_end
+#country+code,#meta+has_hrp,#meta+in_gho,#adm1+name+provider,#adm2+name+provider,#adm1+code,#adm1+name,#adm2+code,#adm2+name,#adm+level,#gender+code,#age+range,#age+min,#age+max,#population,#date+start,#date+end
+PSE,False,True,,,,,,,0,f,all,None,None,2697550,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,all,None,None,2785900,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,all,None,None,5483450,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,0-4,0,4,368327,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,5-9,5,9,324491,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,10-14,10,14,308052,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,15-19,15,19,275742,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,20-24,20,24,241676,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,25-29,25,29,233468,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,30-34,30,34,209131,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,35-39,35,39,161630,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,40-44,40,44,130813,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,45-49,45,49,113332,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,50-54,50,54,92638,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,55-59,55,59,77703,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,60-64,60,64,59347,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,65-69,65,69,40070,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,70-74,70,74,27365,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,75-79,75,79,16742,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,f,80+,80,None,17023,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,0-4,0,4,381924,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,5-9,5,9,340463,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,10-14,10,14,322845,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,15-19,15,19,287454,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,20-24,20,24,251733,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,25-29,25,29,244244,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,30-34,30,34,218167,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,35-39,35,39,163425,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,40-44,40,44,130315,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,45-49,45,49,115601,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,50-54,50,54,95640,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,55-59,55,59,82061,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,60-64,60,64,61804,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,65-69,65,69,39491,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,70-74,70,74,25425,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,75-79,75,79,14140,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,m,80+,80,None,11168,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,0-4,0,4,750251,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,5-9,5,9,664954,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,10-14,10,14,630897,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,15-19,15,19,563196,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,20-24,20,24,493409,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,25-29,25,29,477712,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,30-34,30,34,427298,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,35-39,35,39,325055,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,40-44,40,44,261128,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,45-49,45,49,228933,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,50-54,50,54,188278,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,55-59,55,59,159764,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,60-64,60,64,121151,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,65-69,65,69,79561,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,70-74,70,74,52790,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,75-79,75,79,30882,2023-01-01,2023-12-31
+PSE,False,True,,,,,,,0,all,80+,80,None,28191,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,all,None,None,1098618,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,all,None,None,1127926,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,all,None,None,2226544,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,0-4,0,4,165462,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,5-9,5,9,139182,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,10-14,10,14,135532,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,15-19,15,19,115384,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,20-24,20,24,93854,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,25-29,25,29,94657,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,30-34,30,34,85986,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,35-39,35,39,64356,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,40-44,40,44,49977,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,45-49,45,49,41214,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,50-54,50,54,30876,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,55-59,55,59,27135,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,60-64,60,64,19882,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,65-69,65,69,14061,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,70-74,70,74,10181,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,75-79,75,79,5709,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,f,80+,80,None,5170,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,0-4,0,4,171595,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,5-9,5,9,145276,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,10-14,10,14,141660,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,15-19,15,19,120553,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,20-24,20,24,98073,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,25-29,25,29,97192,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,30-34,30,34,87562,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,35-39,35,39,64156,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,40-44,40,44,49109,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,45-49,45,49,41317,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,50-54,50,54,31260,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,55-59,55,59,28753,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,60-64,60,64,20588,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,65-69,65,69,13323,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,70-74,70,74,9282,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,75-79,75,79,4934,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,m,80+,80,None,3293,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,0-4,0,4,337057,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,5-9,5,9,284458,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,10-14,10,14,277192,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,15-19,15,19,235937,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,20-24,20,24,191927,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,25-29,25,29,191849,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,30-34,30,34,173548,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,35-39,35,39,128512,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,40-44,40,44,99086,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,45-49,45,49,82531,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,50-54,50,54,62136,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,55-59,55,59,55888,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,60-64,60,64,40470,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,65-69,65,69,27384,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,70-74,70,74,19463,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,75-79,75,79,10643,2023-01-01,2023-12-31
+PSE,False,True,Gaza Strip,,PS02,Gaza Strip,,,1,all,80+,80,None,8463,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,all,None,None,1598932,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,all,None,None,1657974,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,all,None,None,3256906,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,0-4,0,4,202865,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,5-9,5,9,185309,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,10-14,10,14,172520,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,15-19,15,19,160358,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,20-24,20,24,147822,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,25-29,25,29,138811,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,30-34,30,34,123145,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,35-39,35,39,97274,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,40-44,40,44,80836,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,45-49,45,49,72118,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,50-54,50,54,61762,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,55-59,55,59,50568,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,60-64,60,64,39465,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,65-69,65,69,26009,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,70-74,70,74,17184,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,75-79,75,79,11033,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,f,80+,80,None,11853,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,0-4,0,4,210329,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,5-9,5,9,195187,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,10-14,10,14,181185,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,15-19,15,19,166901,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,20-24,20,24,153660,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,25-29,25,29,147052,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,30-34,30,34,130605,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,35-39,35,39,99269,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,40-44,40,44,81206,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,45-49,45,49,74284,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,50-54,50,54,64380,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,55-59,55,59,53308,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,60-64,60,64,41216,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,65-69,65,69,26168,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,70-74,70,74,16143,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,75-79,75,79,9206,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,m,80+,80,None,7875,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,0-4,0,4,413194,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,5-9,5,9,380496,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,10-14,10,14,353705,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,15-19,15,19,327259,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,20-24,20,24,301482,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,25-29,25,29,285863,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,30-34,30,34,253750,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,35-39,35,39,196543,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,40-44,40,44,162042,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,45-49,45,49,146402,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,50-54,50,54,126142,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,55-59,55,59,103876,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,60-64,60,64,80681,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,65-69,65,69,52177,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,70-74,70,74,33327,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,75-79,75,79,20239,2023-01-01,2023-12-31
+PSE,False,True,West Bank,,PS01,West Bank,,,1,all,80+,80,None,19728,2023-01-01,2023-12-31
