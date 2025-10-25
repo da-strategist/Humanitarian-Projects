@@ -127,7 +127,7 @@ def pse_acled_ext () -> None:
         print(f'Title: {dataset["title"]}')
         
         project_root = Path(__file__).parent.parent
-        download_dir = project_root/"projects"/"raw_data"/"acled"
+        download_dir = project_root/"projects"/"raw_data"/"acled_01"
         download_dir.mkdir(parents= True, exist_ok= True)
 
         print('Cleaning existing files...')
