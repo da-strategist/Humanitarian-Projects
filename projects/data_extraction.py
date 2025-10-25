@@ -29,6 +29,9 @@ def data_extract() -> None:
         download_dir = project_root/"projects"/"raw_data"/"hdx_hapi_data"
         download_dir.mkdir(parents= True, exist_ok= True)
 
+        #preprocessing: converting dataset to parquet format
+
+     
 
         print('Cleaning existing files...')
         for old_file in download_dir.glob('*'):
@@ -46,9 +49,43 @@ def data_extract() -> None:
             try:
                 url, path = resource.download(str(download_dir))
                 print(f'Downloaded from: {url}')
-                print(f'Saved to: {path}')
+                print(f'saved to: {path}')
+                print(f'Saved')
+
+                #checking file format
+
+                if path.endswith(('.xlsx', '.xls')):
+                    print('Converting to csv')
+
+                    #converting format to csv for optimization
+
+                    files = pd.ExcelFile(path)
+                    sheets = files.sheet_names
+                    print(f'Found {len(sheets)} sheet(s): {sheets}')
+
+                    #processing each sheets
+
+                    for sheet_names in sheets:
+                        print(f'\n  Processing sheet: {sheet_names}')
+
+                        # Reading the sheet
+                        df = pd.read_excel(path, sheet_names=sheet_names)
+                        print(f'Rows: {len(df)}, Columns: {len(df.columns)}')
+
+                       
+
+
+                    converted_data = Path(files).stem + '.csv'
+                    converted_data = files / converted_data
+
+
+
+
             except Exception as e:
                 print(f'Download failed: {e}')
+
+
+
 
             
 
