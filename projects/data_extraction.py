@@ -61,7 +61,7 @@ def data_extract() -> None:
                     print(f'Found {len(sheets)} sheet(s): {sheets}')
 
                     #processing each sheets
-                    for sheet_name in sheets:  # Changed from sheet_names to sheet_name
+                    for sheet_name in sheets:  
                         print(f'\n  Processing sheet: {sheet_name}')
 
                         # Reading the sheet
@@ -104,27 +104,6 @@ def data_extract() -> None:
         print(f"Total CSV files created: {len(converted_files)}")
 #############################
                  
-                    
-
-                        
-                        
-
-
-
-
-                       
-
-
-                   
-
-
-
-
-
-
-
-            
-
 
 #data extract from acled site
 
@@ -168,7 +147,7 @@ def pse_acled_ext () -> None:
                 print(f'data successfully saved to: {path}')
 
                 #checking file type/format
-                if path.endswith('xlsx', 'xls'):
+                if path.endswith(('.xlsx', '.xls')):
                     print('File is in excel format')
 
                     file = pd.ExcelFile(path)
@@ -176,17 +155,19 @@ def pse_acled_ext () -> None:
 
                     #next we process individual sheets
                     for sheet_name in sheets:
-                        data = pd.read_excel(path, sheet_name= sheet_name)
+                        data = pd.read_excel(path, sheet_name=sheet_name)
+                       
                         #next we create a csv filename to hold individual sheets
                         filename = Path(path).stem
 
                         #we check if the file contains multiple sheets
-                        if len(sheet_name) > 1:
-                            csv_filename = f'{filename}_{sheet_name}'
+                        if len(sheets) > 1:
+                            csv_filename = f'{filename}_{sheet_name}.csv'
                         
                         else:
-                            csv_filename = f'{filename}'
-                            csv_path = download_dir / csv_filename
+                            csv_filename = f'{filename}.csv'
+                        
+                        csv_path = download_dir / csv_filename
                         
                         #now we save as csv
                         data.to_csv(csv_path, index= False)
@@ -196,11 +177,11 @@ def pse_acled_ext () -> None:
                         converted_files.append(str(csv_path))
                         total_processed_files += 1
                     
-                    Path(path).unlink
+                    Path(path).unlink()
                     print('old file deleted')
                 
                 else: 
-                    print('file not in excel foemat')
+                    print('file not in excel format')
                     converted_files.append(path)
 
             except Exception as e:
@@ -247,11 +228,60 @@ def civ_target_events_ext () -> None:
                 print(f'Deleted: {old_file.name}')
 
         resource = dataset.get_resources()
+        converted_files = []
+        total_processed_files = 0
 
         for i, resources in enumerate(resource):
             try:
                 url, path = resources.download(str(download_dir))
                 print(f'data successfully downloaded from: {url}')
                 print(f'data successfully saved to: {path}')
+
+                #now we check file type / format
+
+                if path.endswith(('.xlsx', '.xls')):
+
+                    filename = pd.ExcelFile(path)
+                    sheets = filename.sheet_names
+
+                    for sheet_name in sheets:
+                        data = pd.read_excel(path, sheet_name= sheet_name)
+                        
+                        filename = Path(path).stem
+
+                        if len(sheets) > 1:
+                            csv_file = f'{filename}_{sheet_name}.csv' 
+
+                        else:
+                            csv_file = f'{filename}.csv'
+                        
+                        csv_path = download_dir / csv_file
+                        
+                        data.to_csv(csv_path, index= False)
+                        print(f'file saved to {csv_path}')
+
+                        converted_files.append(str(path))
+                        total_processed_files += 1
+                    
+                    Path(path).unlink()
+                    print('old file deleted')
+
+                else:
+                    print('file not in excel format')
+                    converted_files.append(path)
+                
             except Exception as e:
                 print(f'Download failed!!! {e}')
+                raise
+
+        print(f"\nProcessing complete!")
+        print(f"Total sheets processed: {total_processed_files}")
+        print(f"Total CSV files created: {len(converted_files)}")
+
+                    
+
+
+                    
+
+
+            
