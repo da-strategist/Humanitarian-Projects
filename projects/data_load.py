@@ -3,9 +3,8 @@ import pandas as pd
 import numpy as np
 from azure.storage.blob import BlobClient, BlobServiceClient
 from azure.identity import DefaultAzureCredential
-from constant import connection_string
+from projects import constant 
 from io import BytesIO
-from data_extraction import data_extract
 from pathlib import Path
 
 
@@ -15,7 +14,7 @@ def acled_upload_to_azure() -> None:
     """
     Upload CSV files directly from disk to Azure Blob Storage (memory efficient).
     """
-    
+    connection_string = constant.connection_string
     blob_service_client = BlobServiceClient.from_connection_string(connection_string)
     
     project_root = Path(__file__).parent.parent
